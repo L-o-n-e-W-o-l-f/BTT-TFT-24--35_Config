@@ -7,5 +7,5 @@ Please download and use these files as directed in the SoP.
 
 Disclaimer: I do not own the files in this repository.
 Original files:
-Config - https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware#customization
-Cura Plugin - https://github.com/bigtreetech/Bigtree3DPluginSuit/pull/20
+  Config - https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware#customization
+  Cura Plugin - https://github.com/bigtreetech/Bigtree3DPluginSuit/pull/20
